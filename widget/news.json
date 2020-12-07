@@ -1,0 +1,32 @@
+[
+	{
+	"title": "Скоро Новый год",
+        "author": "В.И. Иванов",
+        "datetime": "20.12 15.45",
+        "details": "https://www.twitter.com"
+        },
+	{
+	"title": "На улицах включили иллюминацию",
+        "author": "В.И. Петров",
+        "datetime": "20.12 15.45",
+        "details": "https://www.yandex.ru"
+        },
+        {
+	"title": "Новый супермаркет открылся в Гостином Дворе",
+        "author": "В.И. Николаева",
+        "datetime": "20.12 15.45",
+        "details": "https://www.google.com"
+        },
+        {
+	"title": "Ожидается прибытие руководителя ведомства",
+        "author": "В.И. Маяков",
+        "datetime": "20.12 15.45",
+        "details": "https://www.twitter.com"
+        },
+        {
+	"title": "Lorem Ipsim",
+        "author": "Engel Wash",
+        "datetime": "20.12 15.45",
+        "details": "https://www.twitter.com"
+        }
+]
